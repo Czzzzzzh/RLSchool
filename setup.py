@@ -53,7 +53,7 @@ setup(
         'networkx>=2.2',
         'colour>=0.1.5',
         'scipy>=0.12.0',
-        'gym==0.18.2',
+        'gym==0.18.3',
     ],
     zip_safe=False,
 )
